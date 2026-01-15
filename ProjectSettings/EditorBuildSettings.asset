@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.sahne.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/2.Sahne.unity
+    guid: bb2a7f40da2ce604b9bd7e5e88d0a450
+  - enabled: 1
+    path: Assets/Scenes/3.sahne.unity
+    guid: d267fd49d20152043a223c4cf73231c4
+  - enabled: 1
+    path: Assets/Scenes/4.sahne.unity
+    guid: a5ab2f3d0e5d58b48a2b73ee79ac6dd6
+  - enabled: 1
+    path: Assets/Scenes/5.sahne.unity
+    guid: b6b09a2e931c44b418215f0cde1992fb
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
